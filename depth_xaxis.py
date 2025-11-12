@@ -8,11 +8,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import plotly.graph_objects as go
-streamlit
-pandas
-plotly
-numpy
-Add requirements.txt to include missing Plotly dependency
+
 
 st.set_page_config(page_title="Depth Strip-Log (X-Axis)", layout="wide")
 
